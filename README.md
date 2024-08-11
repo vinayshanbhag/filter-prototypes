@@ -4,9 +4,9 @@
 
 trace impedance 50ohm
 
-<img src="https://github.com/vinayshanbhag/filter-prototypes/blob/main/filter_prototype_boards-2d.svg" width=200/>
+<img src="https://github.com/vinayshanbhag/filter-prototypes/blob/main/filter_prototype_boards-2d.svg" width=400/>
 
-<img src="https://github.com/vinayshanbhag/filter-prototypes/blob/main/filter_prototype_boards-3d.png" width=100/>
+<img src="https://github.com/vinayshanbhag/filter-prototypes/blob/main/filter_prototype_boards-3d.png" width=300/>
 
 Ref:
 
